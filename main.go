@@ -7,6 +7,7 @@ import (
 
 func helloHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Hello, World (pra não dá azar kkk)!")
+	fmt.Fprintf(w, "Forçar conflito na main!")
 }
 
 func main() {
