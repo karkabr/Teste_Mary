@@ -12,6 +12,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Teste sh!")
 	fmt.Fprintf(w, "Teste A -> B!")
 	fmt.Fprintf(w, "Teste B -> A!")
+	fmt.Fprintf(w, "Teste B -> A!")
 }
 
 func main() {
