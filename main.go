@@ -18,6 +18,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	fmt.Println("Teste modificação! AGAIN")
+	fmt.Println("Teste sh!")
 	http.HandleFunc("/", helloHandler)
 	http.ListenAndServe(":8080", nil)
 }
