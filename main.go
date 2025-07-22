@@ -15,6 +15,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Teste B -> A!")
 	fmt.Fprintf(w, "Teste B -> A! - Comparando linhas")
 	fmt.Fprintf(w, "Teste B -> A! - Comparando linhas 2")
+	fmt.Fprintf(w, "Teste A -> B! - arquivo")
 }
 
 func main() {
