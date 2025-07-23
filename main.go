@@ -20,6 +20,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Teste A -> B! - webhook 2")
 	fmt.Fprintf(w, "Teste A -> B! - webhook 3")
 	fmt.Fprintf(w, "Teste A -> B! - webhook 4")
+	fmt.Fprintf(w, "Teste A -> B! - webhook 5")
 	teste()
 }
 
