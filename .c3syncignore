@@ -1,0 +1,6 @@
+# Ignorar branches
+:branches
+dev
+
+# Ignorar arquivos/pastas
+README.md
