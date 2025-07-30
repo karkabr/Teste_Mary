@@ -3,3 +3,5 @@
 test ignore
 teste
 teste ignore
+
+* teste
