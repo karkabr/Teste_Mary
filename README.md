@@ -5,3 +5,4 @@ teste
 teste ignore
 
 * teste
+* teste dev
