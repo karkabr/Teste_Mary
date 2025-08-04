@@ -6,3 +6,5 @@ teste ignore
 
 * teste
 * teste dev
+
+* teste dev
