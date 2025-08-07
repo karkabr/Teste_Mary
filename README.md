@@ -11,3 +11,5 @@ teste
 * teste dev
 
 teste sync repo b
+
+teste sync select repo b
