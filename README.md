@@ -10,6 +10,7 @@ teste
 
 * teste dev
 
-teste sync
+teste sync repo b
 
-* teste front
+teste sync select repo b
+
