@@ -22,6 +22,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Teste A -> B! - ignore 2")
 	fmt.Fprintf(w, "Teste A -> B! - ignore 3")
 	fmt.Fprintf(w, "Teste B -> A! - teste sync select repo b")
+	fmt.Fprintf(w, "Teste B -> A! - teste sync select repo b")
 	teste()
 }
 
